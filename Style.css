@@ -861,6 +861,7 @@ hr{
     .footer-contacts{
         flex-wrap: wrap;
         padding-right: 20px;
+        justify-content: space-around;
     }
     footer{
         padding-right: 10px;
